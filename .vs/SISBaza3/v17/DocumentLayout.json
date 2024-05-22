@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SISBaza3\\SISBaza3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\mapiranja\\organizacijamapiranja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\mapiranja\\organizacijamapiranja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\entiteti\\organizacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\entiteti\\organizacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\entiteti\\narodniposlanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\entiteti\\narodniposlanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\narodniposlaniciforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\narodniposlaniciforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\radnidaniforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\radnidaniforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\radnatela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\radnatela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\poslanickagrupaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\poslanickagrupaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|d:\\sisbaza3\\sisbaza3\\sisbaza3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|D:\\SISBaza3\\SISBaza3\\sisbaza3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BEFA33-B927-4A41-9474-6BCB5C5CA1C3}|SISBaza3\\SISBaza3.csproj|solutionrelative:sisbaza3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "organizacijaMapiranja.cs",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Mapiranja\\organizacijaMapiranja.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\Mapiranja\\organizacijaMapiranja.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Mapiranja\\organizacijaMapiranja.cs",
+              "RelativeToolTip": "SISBaza3\\Mapiranja\\organizacijaMapiranja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:50:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "organizacija.cs",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Entiteti\\organizacija.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\Entiteti\\organizacija.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Entiteti\\organizacija.cs",
+              "RelativeToolTip": "SISBaza3\\Entiteti\\organizacija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:48:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "narodniPoslanik.cs",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Entiteti\\narodniPoslanik.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\Entiteti\\narodniPoslanik.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Entiteti\\narodniPoslanik.cs",
+              "RelativeToolTip": "SISBaza3\\Entiteti\\narodniPoslanik.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:43:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "radniDaniForma.cs [Design]",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\radniDaniForma.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\radniDaniForma.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\radniDaniForma.cs [Design]",
+              "RelativeToolTip": "SISBaza3\\radniDaniForma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:20:02.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "radnaTela.cs [Design]",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\radnaTela.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\radnaTela.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\radnaTela.cs [Design]",
+              "RelativeToolTip": "SISBaza3\\radnaTela.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:20:01.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "narodniPoslaniciForma.cs [Design]",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\narodniPoslaniciForma.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\narodniPoslaniciForma.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\narodniPoslaniciForma.cs [Design]",
+              "RelativeToolTip": "SISBaza3\\narodniPoslaniciForma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:19:58.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "poslanickaGrupaForma.cs [Design]",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\poslanickaGrupaForma.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\poslanickaGrupaForma.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\poslanickaGrupaForma.cs [Design]",
+              "RelativeToolTip": "SISBaza3\\poslanickaGrupaForma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:19:59.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Form1.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\Form1.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Form1.cs [Design]",
+              "RelativeToolTip": "SISBaza3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:55:50.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Program.cs",
+              "RelativeDocumentMoniker": "SISBaza3\\Program.cs",
+              "ToolTip": "D:\\SISBaza3\\SISBaza3\\SISBaza3\\Program.cs",
+              "RelativeToolTip": "SISBaza3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:25:07.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
